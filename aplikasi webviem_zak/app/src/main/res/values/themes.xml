@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Webviem" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Warna dasar -->
+        <item name="colorPrimary">#03DAC5</item>
+        <item name="colorPrimaryDark">#018786</item>
+        <item name="colorAccent">#FF4081</item>
+    </style>
+
+</resources>

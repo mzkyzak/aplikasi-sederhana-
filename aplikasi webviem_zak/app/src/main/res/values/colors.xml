@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Warna utama -->
+    <color name="blue_main">#5DB3F0</color>
+    <color name="blue_dark">#3B8FD6</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+</resources>
