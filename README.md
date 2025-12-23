@@ -1,4 +1,4 @@
-mungkin kedepannya bisa lebih update lagi,, di rancang,, karena ada beberapa yang tidak di inginkan.
+mungkin ada beberapa perlu di perbaiki karena ada beberapa yang tidak di inginkan.
 
 <img width="372" height="546" alt="Screenshot_101" src="https://github.com/user-attachments/assets/dd167d16-1e61-4106-91e5-462279d0714b" />
 
